@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1AcOT-zpVmFvvretQ_HBKe1KhpWRHpMl6T1Lc927DvRc/edit?usp=drivesdk](https://docs.google.com/document/d/1AcOT-zpVmFvvretQ_HBKe1KhpWRHpMl6T1Lc927DvRc/edit?usp=drivesdk)
 
-- ⚡ Fun fact **Hiperfoco abuser**
+- ⚡ Fun fact **i hate java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
