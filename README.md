@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Renan Geraldini Leão</h1>
+<h1 align="center">Hi 👋, I'm Renan</h1>
 <h3 align="center">A back-end developer from Brazil</h3>
 
 - 🔭 I’m currently working on [Delivery de Padaria](https://github.com/renanjava/testes-escola-de-TI)
