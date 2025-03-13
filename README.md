@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Delivery de Padaria](https://github.com/renanjava/testes-escola-de-TI)
 
-- 🌱 I’m currently learning **Kubernetes, Prometheus & Microservices**
+- 🌱 I’m currently learning **Clean Architecture, Clean Code, GraphQL, Kubernetes, Prometheus & Microservices**
 
 - 💬 Ask me about **Node.js, Nest.js and Typescript**
 
