@@ -9,9 +9,8 @@
 
 - 📫 How to reach me **renanleao.f90@hotmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1AcOT-zpVmFvvretQ_HBKe1KhpWRHpMl6T1Lc927DvRc/edit?usp=drivesdk](https://docs.google.com/document/d/1AcOT-zpVmFvvretQ_HBKe1KhpWRHpMl6T1Lc927DvRc/edit?usp=drivesdk)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1V3zZS4XPwXbAEz_ZPB3EElDSa7JO-crUH8bp5x11ZBY/edit?usp=sharing)
 
-- ⚡ Fun fact **i hate java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
