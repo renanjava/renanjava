@@ -1,18 +1,21 @@
 <h1 align="center"> Seja bem-vindo(a) ao meu GitHub! </h1> 
 <p align="center"><i>Desenvolvedor Back-End | Engenheiro de Software</i></p>
 
-## 🚀 Sobre Mim
+## 🛠️ Stack Principal
 
-Sou um desenvolvedor com experiência utilizando tecnologias como:
+Minha stack principal inclui tecnologias que garantem produtividade e qualidade:
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=TypeScript&logo=typescript&label=&color=007acc&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=Node.js&logo=node.js&label=&color=339933&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=NestJS&logo=nestjs&label=&color=e0234e&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=PrismaORM&logo=prisma&label=&color=2D3748&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=PostgreSQL&logo=postgresql&label=&color=4169E1&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=Class-Validator&logo=typescript&label=&color=4B5EAA&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=Docker&logo=docker&label=&color=2496ED&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=CI/CD&logo=circleci&label=&color=343434&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/static/v1?message=SQL&logo=sqlite&label=&color=003B57&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/static/v1?message=NoSQL&logo=mongodb&label=&color=4E72A0&logoColor=white&style=for-the-badge" />
+
+
 </div>
 
 ## 📚 O que estou aprendendo
@@ -31,13 +34,10 @@ No momento, estou me aprofundando em:
 Estou à procura de uma vaga na área de desenvolvimento para aplicar todos meus conhecimentos e contribuir no sucesso de projetos!
 
 <div align="center">
+  <p>📬 Vamos conversar? Conecte-se comigo no LinkedIn!</p>
   <a href="https://www.linkedin.com/in/renan-g-l/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
-</div>
-
-<div align="center">
-  <p>📬 Vamos conversar? Conecte-se comigo no LinkedIn!</p>
 </div>
 
 ---
