@@ -36,8 +36,6 @@ Estou à procura de uma vaga na área de desenvolvimento para aplicar todos meus
   </a>
 </div>
 
----
-
 <div align="center">
   <p>📬 Vamos conversar? Conecte-se comigo no LinkedIn!</p>
 </div>
