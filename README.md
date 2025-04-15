@@ -20,17 +20,25 @@ Minha stack principal inclui tecnologias que garantem produtividade e qualidade:
   <img src="https://img.shields.io/static/v1?message=Jest&logo=jest&label=&color=C21325&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=Supertest&logo=node.js&label=&color=343434&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=Swagger&logo=swagger&label=&color=85EA2D&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=Nodemailer&logo=node.js&label=&color=009245&logoColor=white&style=for-the-badge" />
 </div>
 
 ## 📚 O que estou aprendendo
 
 No momento, estou me aprofundando em:
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Express.js&logo=express&label=&color=6A5ACD&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/static/v1?message=Design%20Patterns&logo=git&label=&color=4682B4&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/static/v1?message=Arquitetura%20Limpa&logo=codepen&label=&color=2F4F4F&logoColor=white&style=for-the-badge" />
+<div align="center"> 
+  <img src="https://img.shields.io/static/v1?message=Design%20Patterns&logo=git&label=&color=4682B4&logoColor=white&style=for-the-badge" /> 
+  <img src="https://img.shields.io/static/v1?message=Arquitetura%20Limpa&logo=codepen&label=&color=2F4F4F&logoColor=white&style=for-the-badge" /> 
   <img src="https://img.shields.io/static/v1?message=Arquitetura%20Hexagonal&logo=hive&label=&color=4B5EAA&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=Express.js&logo=express&label=&color=000000&logoColor=white&style=for-the-badge" /> 
+  <img src="https://img.shields.io/static/v1?message=Sequelize&logo=sequelize&label=&color=52B0E7&logoColor=white&style=for-the-badge" /> 
+  <img src="https://img.shields.io/static/v1?message=SQLite&logo=sqlite&label=&color=003B57&logoColor=white&style=for-the-badge" /> 
+  <img src="https://img.shields.io/static/v1?message=Axios&logo=axios&label=&color=5A29E4&logoColor=white&style=for-the-badge" /> 
+  <img src="https://img.shields.io/static/v1?message=Zod&logo=zod&label=&color=3068B7&logoColor=white&style=for-the-badge" /> 
+  <img src="https://img.shields.io/static/v1?message=Knex&logo=knex.js&label=&color=E34F26&logoColor=white&style=for-the-badge" /> 
+  <img src="https://img.shields.io/static/v1?message=Yup&logo=node.js&label=&color=00B7D4&logoColor=white&style=for-the-badge" /> 
+  <img src="https://img.shields.io/static/v1?message=OAuth2.0&logo=auth0&label=&color=EB5424&logoColor=white&style=for-the-badge" />
 </div>
 
 ## 💼 Em busca de oportunidades
