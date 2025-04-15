@@ -14,8 +14,12 @@ Minha stack principal inclui tecnologias que garantem produtividade e qualidade:
   <img src="https://img.shields.io/static/v1?message=Class-Validator&logo=typescript&label=&color=4B5EAA&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=Docker&logo=docker&label=&color=2496ED&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=CI/CD&logo=circleci&label=&color=343434&logoColor=white&style=for-the-badge" />
-
-
+  <img src="https://img.shields.io/static/v1?message=JWT%20Token&logo=jsonwebtokens&label=&color=000000&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=RBAC&logo=typescript&label=&color=2F4F4F&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=Bcrypt&logo=node.js&label=&color=4682B4&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=Jest&logo=jest&label=&color=C21325&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=Supertest&logo=node.js&label=&color=343434&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=Swagger&logo=swagger&label=&color=85EA2D&logoColor=black&style=for-the-badge" />
 </div>
 
 ## 📚 O que estou aprendendo
