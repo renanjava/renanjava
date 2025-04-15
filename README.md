@@ -1,49 +1,74 @@
-<h2 align="left">Hi 👋! My name is Renan Geraldini Leão and I'm a Back-end Developer, from Brazil</h2>
+<h1 align="center"> Seja bem-vindo(a) ao meu GitHub! </h1> 
+<p align="center"><i>Desenvolvedor Back-End | Engenheiro de Software</i></p>
 
-###
+---
+
+## 🚀 Sobre Mim
+
+Sou um desenvolvedor com experiência utilizando tecnologias como:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://img.shields.io/static/v1?message=TypeScript&logo=typescript&label=&color=007acc&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=Node.js&logo=node.js&label=&color=339933&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=NestJS&logo=nestjs&label=&color=e0234e&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=Docker&logo=docker&label=&color=2496ED&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=CI/CD&logo=circleci&label=&color=343434&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=SQL&logo=sqlite&label=&color=003B57&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=NoSQL&logo=mongodb&label=&color=4E72A0&logoColor=white&style=for-the-badge" />
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+## 📚 O que estou aprendendo
 
-###
+No momento, estou me aprofundando em:
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Express.js&logo=express&label=&color=6A5ACD&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=Design%20Patterns&logo=git&label=&color=4682B4&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=Arquitetura%20Limpa&logo=codepen&label=&color=2F4F4F&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=Arquitetura%20Hexagonal&logo=hive&label=&color=4B5EAA&logoColor=white&style=for-the-badge" />
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+## 💼 Em busca de oportunidades
+
+Estou à procura de uma vaga na área de desenvolvimento para aplicar todos meus conhecimentos e contribuir no sucesso de projetos!
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/renan-g-l/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn logo" />
+  </a>
 </div>
 
-###
+---
 
-<br clear="both">
+<div align="center">
+  <p>📬 Vamos conversar? Conecte-se comigo no LinkedIn!</p>
+</div>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+---
 
-###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanjava&layout=compact&langs_count=20&theme=tokyonight" alt="Github top linguagens"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=renanjava&theme=tokyonight" alt="Github estatísticas"/>
+</div>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/renanjava/renanjava/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/renanjava/renanjava/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/renanjava/renanjava/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjFnbTN6amdsbGR5ZnduYXNqeGI2bXRkZWpqbmlhMjJyMDF0NTJ2MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/J2J9LE2PJ0lCnpxhum/giphy.gif" width="100" alt="Soldier76" />
+
+> _"Aquilo que se faz por amor está sempre além do bem e do mal."_ 
+> — **Friedrich Nietzsche**
+<br>
+
+---
