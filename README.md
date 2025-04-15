@@ -1,8 +1,6 @@
 <h1 align="center"> Seja bem-vindo(a) ao meu GitHub! </h1> 
 <p align="center"><i>Desenvolvedor Back-End | Engenheiro de Software</i></p>
 
----
-
 ## 🚀 Sobre Mim
 
 Sou um desenvolvedor com experiência utilizando tecnologias como:
@@ -17,8 +15,6 @@ Sou um desenvolvedor com experiência utilizando tecnologias como:
   <img src="https://img.shields.io/static/v1?message=NoSQL&logo=mongodb&label=&color=4E72A0&logoColor=white&style=for-the-badge" />
 </div>
 
----
-
 ## 📚 O que estou aprendendo
 
 No momento, estou me aprofundando em:
@@ -29,8 +25,6 @@ No momento, estou me aprofundando em:
   <img src="https://img.shields.io/static/v1?message=Arquitetura%20Limpa&logo=codepen&label=&color=2F4F4F&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=Arquitetura%20Hexagonal&logo=hive&label=&color=4B5EAA&logoColor=white&style=for-the-badge" />
 </div>
-
----
 
 ## 💼 Em busca de oportunidades
 
