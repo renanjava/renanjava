@@ -41,6 +41,38 @@ No momento, estou me aprofundando em:
   <img src="https://img.shields.io/static/v1?message=OAuth2.0&logo=auth0&label=&color=EB5424&logoColor=white&style=for-the-badge" />
 </div>
 
+## 🧠 Já tive experiência mas não é meu foco
+
+Tenho experiência com as seguintes tecnologias, mas atualmente não são meu foco principal:
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Java&logo=openjdk&label=&color=ED8B00&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=Golang&logo=go&label=&color=00ADD8&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=HTML&logo=html5&label=&color=E34F26&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=CSS&logo=css3&label=&color=1572B6&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=Angular&logo=angular&label=&color=DD0031&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=PHP&logo=php&label=&color=777BB4&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=JSP&logo=openjdk&label=&color=007396&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=Spring%20Boot&logo=springboot&label=&color=6DB33F&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=Python&logo=python&label=&color=3776AB&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=PyTorch&logo=pytorch&label=&color=EE4C2C&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=TensorFlow&logo=tensorflow&label=&color=FF6F00&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=Dart&logo=dart&label=&color=0175C2&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=Flutter&logo=flutter&label=&color=02569B&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=Next.js&logo=next.js&label=&color=000000&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=Selenium&logo=selenium&label=&color=43B02A&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=Cucumber&logo=cucumber&label=&color=23D96C&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=Regex&logo=node.js&label=&color=FF4500&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=C&logo=c&label=&color=A8B9CC&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=Kubernetes&logo=kubernetes&label=&color=326CE5&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=AWS&logo=amazonwebservices&label=&color=232F3E&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=Prometheus&logo=prometheus&label=&color=E6522C&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=Grafana&logo=grafana&label=&color=F46800&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=UI%20Design&logo=figma&label=&color=F24E1E&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=NGINX&logo=nginx&label=&color=009639&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=Figma&logo=figma&label=&color=F24E1E&logoColor=white&style=for-the-badge" />
+</div>
+
 ## 💼 Em busca de oportunidades
 
 Estou à procura de uma vaga na área de desenvolvimento para aplicar todos meus conhecimentos e contribuir no sucesso de projetos!
