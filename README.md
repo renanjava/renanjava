@@ -3,7 +3,7 @@
 
 ## 🛠️ Stack Principal
 
-Minha stack principal inclui tecnologias que garantem produtividade e qualidade:
+Meu foco inclui tecnologias que garantem produtividade e qualidade:
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=TypeScript&logo=typescript&label=&color=007acc&logoColor=white&style=for-the-badge" />
@@ -25,8 +25,6 @@ Minha stack principal inclui tecnologias que garantem produtividade e qualidade:
 
 ## 📚 O que estou aprendendo
 
-No momento, estou me aprofundando em:
-
 <div align="center"> 
   <img src="https://img.shields.io/static/v1?message=Design%20Patterns&logo=git&label=&color=4682B4&logoColor=white&style=for-the-badge" /> 
   <img src="https://img.shields.io/static/v1?message=Arquitetura%20Limpa&logo=codepen&label=&color=2F4F4F&logoColor=white&style=for-the-badge" /> 
@@ -42,9 +40,6 @@ No momento, estou me aprofundando em:
 </div>
 
 ## 🧠 Já tive experiência mas não é meu foco
-
-Tenho experiência com as seguintes tecnologias, mas atualmente não são meu foco principal:
-
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Java&logo=openjdk&label=&color=ED8B00&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=Golang&logo=go&label=&color=00ADD8&logoColor=white&style=for-the-badge" />
