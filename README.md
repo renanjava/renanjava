@@ -2,9 +2,6 @@
 <p align="center"><i>Desenvolvedor Back-End | Engenheiro de Software</i></p>
 
 ## 🛠️ Stack Principal
-
-Meu foco inclui tecnologias que garantem produtividade e qualidade:
-
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=TypeScript&logo=typescript&label=&color=007acc&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=Node.js&logo=node.js&label=&color=339933&logoColor=white&style=for-the-badge" />
@@ -24,7 +21,6 @@ Meu foco inclui tecnologias que garantem produtividade e qualidade:
 </div>
 
 ## 📚 O que estou aprendendo
-
 <div align="center"> 
   <img src="https://img.shields.io/static/v1?message=Design%20Patterns&logo=git&label=&color=4682B4&logoColor=white&style=for-the-badge" /> 
   <img src="https://img.shields.io/static/v1?message=Arquitetura%20Limpa&logo=codepen&label=&color=2F4F4F&logoColor=white&style=for-the-badge" /> 
@@ -69,7 +65,6 @@ Meu foco inclui tecnologias que garantem produtividade e qualidade:
 </div>
 
 ## 💼 Em busca de oportunidades
-
 Estou à procura de uma vaga na área de desenvolvimento para aplicar todos meus conhecimentos e contribuir no sucesso de projetos!
 
 <div align="center">
