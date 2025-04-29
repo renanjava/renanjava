@@ -33,6 +33,11 @@
   <img src="https://img.shields.io/static/v1?message=Knex&logo=knex.js&label=&color=E34F26&logoColor=white&style=for-the-badge" /> 
   <img src="https://img.shields.io/static/v1?message=Yup&logo=node.js&label=&color=00B7D4&logoColor=white&style=for-the-badge" /> 
   <img src="https://img.shields.io/static/v1?message=OAuth2.0&logo=auth0&label=&color=EB5424&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=AWS&logo=amazonwebservices&label=&color=232F3E&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=NGINX&logo=nginx&label=&color=009639&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=Kubernetes&logo=kubernetes&label=&color=326CE5&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=Prometheus&logo=prometheus&label=&color=E6522C&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=Grafana&logo=grafana&label=&color=F46800&logoColor=white&style=for-the-badge" />
 </div>
 
 ## 🧠 Já tive experiência mas não é meu foco
@@ -55,12 +60,7 @@
   <img src="https://img.shields.io/static/v1?message=Cucumber&logo=cucumber&label=&color=23D96C&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=Regex&logo=node.js&label=&color=FF4500&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=C&logo=c&label=&color=A8B9CC&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/static/v1?message=Kubernetes&logo=kubernetes&label=&color=326CE5&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/static/v1?message=AWS&logo=amazonwebservices&label=&color=232F3E&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/static/v1?message=Prometheus&logo=prometheus&label=&color=E6522C&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/static/v1?message=Grafana&logo=grafana&label=&color=F46800&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=UI%20Design&logo=figma&label=&color=F24E1E&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/static/v1?message=NGINX&logo=nginx&label=&color=009639&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=Figma&logo=figma&label=&color=F24E1E&logoColor=white&style=for-the-badge" />
 </div>
 
