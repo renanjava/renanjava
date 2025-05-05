@@ -1,7 +1,7 @@
 <h1 align="center"> Seja bem-vindo(a) ao meu GitHub! </h1> 
 <p align="center"><i>Desenvolvedor Back-End | Engenheiro de Software</i></p>
 
-## 🛠️ Stack Principal
+## 🛠️ Tecnologias/Práticas Principais
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=TypeScript&logo=typescript&label=&color=007acc&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=Node.js&logo=node.js&label=&color=339933&logoColor=white&style=for-the-badge" />
@@ -18,29 +18,30 @@
   <img src="https://img.shields.io/static/v1?message=Supertest&logo=node.js&label=&color=343434&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=Swagger&logo=swagger&label=&color=85EA2D&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=Nodemailer&logo=node.js&label=&color=009245&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=Design%20Patterns&logo=git&label=&color=4682B4&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=Arquitetura%20Limpa&logo=codepen&label=&color=2F4F4F&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=Arquitetura%20Hexagonal&logo=hive&label=&color=4B5EAA&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=NGINX&logo=nginx&label=&color=009639&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=Express.js&logo=express&label=&color=000000&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=Sequelize&logo=sequelize&label=&color=52B0E7&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=SQLite&logo=sqlite&label=&color=003B57&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=Axios&logo=axios&label=&color=5A29E4&logoColor=white&style=for-the-badge" />
 </div>
 
-## 📚 O que estou aprendendo
-<div align="center"> 
-  <img src="https://img.shields.io/static/v1?message=Design%20Patterns&logo=git&label=&color=4682B4&logoColor=white&style=for-the-badge" /> 
-  <img src="https://img.shields.io/static/v1?message=Arquitetura%20Limpa&logo=codepen&label=&color=2F4F4F&logoColor=white&style=for-the-badge" /> 
-  <img src="https://img.shields.io/static/v1?message=Arquitetura%20Hexagonal&logo=hive&label=&color=4B5EAA&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/static/v1?message=Express.js&logo=express&label=&color=000000&logoColor=white&style=for-the-badge" /> 
-  <img src="https://img.shields.io/static/v1?message=Sequelize&logo=sequelize&label=&color=52B0E7&logoColor=white&style=for-the-badge" /> 
-  <img src="https://img.shields.io/static/v1?message=SQLite&logo=sqlite&label=&color=003B57&logoColor=white&style=for-the-badge" /> 
-  <img src="https://img.shields.io/static/v1?message=Axios&logo=axios&label=&color=5A29E4&logoColor=white&style=for-the-badge" /> 
+## 📚 Estou aprendendo
+<div align="center">  
   <img src="https://img.shields.io/static/v1?message=Zod&logo=zod&label=&color=3068B7&logoColor=white&style=for-the-badge" /> 
   <img src="https://img.shields.io/static/v1?message=Knex&logo=knex.js&label=&color=E34F26&logoColor=white&style=for-the-badge" /> 
   <img src="https://img.shields.io/static/v1?message=Yup&logo=node.js&label=&color=00B7D4&logoColor=white&style=for-the-badge" /> 
   <img src="https://img.shields.io/static/v1?message=OAuth2.0&logo=auth0&label=&color=EB5424&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=AWS&logo=amazonwebservices&label=&color=232F3E&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/static/v1?message=NGINX&logo=nginx&label=&color=009639&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=Kubernetes&logo=kubernetes&label=&color=326CE5&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=Prometheus&logo=prometheus&label=&color=E6522C&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=Grafana&logo=grafana&label=&color=F46800&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=RabbitMQ&logo=rabbitmq&label=&color=FF6600&logoColor=white&style=for-the-badge" />
 </div>
 
-## 🧠 Já tive experiência mas não é meu foco
+## 🧠 Já tive experiência
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Java&logo=openjdk&label=&color=ED8B00&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=Golang&logo=go&label=&color=00ADD8&logoColor=white&style=for-the-badge" />
