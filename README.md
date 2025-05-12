@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/static/v1?message=SQLite&logo=sqlite&label=&color=003B57&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=Axios&logo=axios&label=&color=5A29E4&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=UML&logo=uml&label=&color=9B4F96&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=MinIO&logo=minio&label=&color=FB5A41&logoColor=white&style=for-the-badge" />
 </div>
 
 ## 📚 Estou aprendendo
