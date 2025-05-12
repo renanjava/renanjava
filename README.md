@@ -28,6 +28,7 @@
   <img src="https://img.shields.io/static/v1?message=Axios&logo=axios&label=&color=5A29E4&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=UML&logo=uml&label=&color=9B4F96&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=MinIO&logo=minio&label=&color=FB5A41&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=Kubernetes&logo=kubernetes&label=&color=326CE5&logoColor=white&style=for-the-badge" />
 </div>
 
 ## 📚 Estou aprendendo
@@ -37,7 +38,6 @@
   <img src="https://img.shields.io/static/v1?message=Terraform&logo=terraform&label=&color=7B42BC&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=Ansible&logo=ansible&label=&color=E05E00&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=AWS&logo=amazonwebservices&label=&color=232F3E&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/static/v1?message=Kubernetes&logo=kubernetes&label=&color=326CE5&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=Prometheus&logo=prometheus&label=&color=E6522C&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=Grafana&logo=grafana&label=&color=F46800&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=Zod&logo=zod&label=&color=3068B7&logoColor=white&style=for-the-badge" /> 
