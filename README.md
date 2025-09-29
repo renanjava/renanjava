@@ -1,13 +1,16 @@
 <h1 align="center"> Seja bem-vindo(a) ao meu GitHub! </h1> 
 <p align="center"><i>Desenvolvedor Back-End | Engenheiro de Software</i></p>
 
-## 🛠️ Tecnologias/Práticas Principais
+## 🛠️ Tecnologias usadas em meus projetos
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=TypeScript&logo=typescript&label=&color=007acc&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=Node.js&logo=node.js&label=&color=339933&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=NestJS&logo=nestjs&label=&color=e0234e&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=PrismaORM&logo=prisma&label=&color=2D3748&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=PostgreSQL&logo=postgresql&label=&color=4169E1&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=MongoDB&logo=mongodb&label=&color=47A248&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=Vue.js&logo=vue.js&label=&color=42b883&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=AbacatePay&logo=paypal&label=&color=78C850&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=Class-Validator&logo=typescript&label=&color=4B5EAA&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=Docker&logo=docker&label=&color=2496ED&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=CI/CD&logo=circleci&label=&color=343434&logoColor=white&style=for-the-badge" />
@@ -30,14 +33,34 @@
   <img src="https://img.shields.io/static/v1?message=MinIO&logo=minio&label=&color=FB5A41&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=Kubernetes&logo=kubernetes&label=&color=326CE5&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=Zod&logo=zod&label=&color=3068B7&logoColor=white&style=for-the-badge" /> 
-</div>
-
-## 📚 Estou aprendendo
-<div align="center">  
-  <img src="https://img.shields.io/static/v1?message=Microsservi%C3%A7os&logo=appveyor&label=&color=0db7ed&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/static/v1?message=RabbitMQ&logo=rabbitmq&label=&color=FF6600&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=HTML&logo=html5&label=&color=E34F26&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=CSS&logo=css3&label=&color=1572B6&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=Terraform&logo=terraform&label=&color=7B42BC&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=Ansible&logo=ansible&label=&color=E05E00&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=Microsservi%C3%A7os&logo=appveyor&label=&color=0db7ed&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=Kafka&logo=apachekafka&label=&color=FF6600&logoColor=white&style=for-the-badge" />
+</div>
+
+## 📚 Próximos passos
+<div align="center">  
+  <img src="https://img.shields.io/static/v1?message=API%20Gateway&logo=swagger&label=&color=85EA2D&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=Composition%20API&logo=vue.js&label=&color=42b883&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=AWS%20Lambda&logo=amazonaws&label=&color=FF9900&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=AWS%20S3&logo=amazons3&label=&color=569A31&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=AWS%20SQS&logo=amazonaws&label=&color=FF4F8B&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=AWS%20SNS&logo=amazonaws&label=&color=FF9900&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=Athena&logo=amazonaws&label=&color=232F3E&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=Glue&logo=amazonaws&label=&color=FF9900&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=Localstack&logo=localstack&label=&color=000000&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=Observabilidade&logo=grafana&label=&color=F46800&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=N8N&logo=n8n&label=&color=F05A28&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=WAF&logo=cloudflare&label=&color=F38020&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=EC2&logo=amazonaws&label=&color=FF9900&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=ECS&logo=docker&label=&color=2496ED&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=RDS&logo=amazonaws&label=&color=232F3E&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=Amplify&logo=awsamplify&label=&color=FF9900&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=Heroku&logo=heroku&label=&color=430098&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=RabbitMQ&logo=rabbitmq&label=&color=FF6600&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=AWS&logo=amazonwebservices&label=&color=232F3E&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=Prometheus&logo=prometheus&label=&color=E6522C&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=Grafana&logo=grafana&label=&color=F46800&logoColor=white&style=for-the-badge" />
@@ -46,12 +69,10 @@
   <img src="https://img.shields.io/static/v1?message=OAuth2.0&logo=auth0&label=&color=EB5424&logoColor=white&style=for-the-badge" />
 </div>
 
-## 🧠 Já tive experiência
+## 🧠 Já tive contato anteriormente
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Java&logo=openjdk&label=&color=ED8B00&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=Golang&logo=go&label=&color=00ADD8&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/static/v1?message=HTML&logo=html5&label=&color=E34F26&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/static/v1?message=CSS&logo=css3&label=&color=1572B6&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=Angular&logo=angular&label=&color=DD0031&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=PHP&logo=php&label=&color=777BB4&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=JSP&logo=openjdk&label=&color=007396&logoColor=white&style=for-the-badge" />
