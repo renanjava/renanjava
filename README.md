@@ -89,6 +89,9 @@
   <img src="https://img.shields.io/static/v1?message=C&logo=c&label=&color=A8B9CC&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=UI%20Design&logo=figma&label=&color=F24E1E&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=Figma&logo=figma&label=&color=F24E1E&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=C%23&logo=c-sharp&label=&color=239120&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=.NET&logo=dotnet&label=&color=512BD4&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=Entity%20Framework%20Core&logo=dotnet&label=&color=5C2D91&logoColor=white&style=for-the-badge" />
 </div>
 
 ## 💼 Em busca de oportunidades
