@@ -39,12 +39,14 @@
   <img src="https://img.shields.io/static/v1?message=Ansible&logo=ansible&label=&color=E05E00&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=Microsservi%C3%A7os&logo=appveyor&label=&color=0db7ed&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=Kafka&logo=apachekafka&label=&color=FF6600&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=API%20Gateway&logo=swagger&label=&color=85EA2D&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=Composition%20API&logo=vue.js&label=&color=42b883&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=Observabilidade&logo=grafana&label=&color=F46800&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=RabbitMQ&logo=rabbitmq&label=&color=FF6600&logoColor=white&style=for-the-badge" />
 </div>
 
 ## 📚 Próximos passos
 <div align="center">  
-  <img src="https://img.shields.io/static/v1?message=API%20Gateway&logo=swagger&label=&color=85EA2D&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/static/v1?message=Composition%20API&logo=vue.js&label=&color=42b883&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=AWS%20Lambda&logo=amazonaws&label=&color=FF9900&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=AWS%20S3&logo=amazons3&label=&color=569A31&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=AWS%20SQS&logo=amazonaws&label=&color=FF4F8B&logoColor=white&style=for-the-badge" />
@@ -52,7 +54,6 @@
   <img src="https://img.shields.io/static/v1?message=Athena&logo=amazonaws&label=&color=232F3E&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=Glue&logo=amazonaws&label=&color=FF9900&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=Localstack&logo=localstack&label=&color=000000&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/static/v1?message=Observabilidade&logo=grafana&label=&color=F46800&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=N8N&logo=n8n&label=&color=F05A28&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=WAF&logo=cloudflare&label=&color=F38020&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=EC2&logo=amazonaws&label=&color=FF9900&logoColor=white&style=for-the-badge" />
@@ -60,7 +61,6 @@
   <img src="https://img.shields.io/static/v1?message=RDS&logo=amazonaws&label=&color=232F3E&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=Amplify&logo=awsamplify&label=&color=FF9900&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=Heroku&logo=heroku&label=&color=430098&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/static/v1?message=RabbitMQ&logo=rabbitmq&label=&color=FF6600&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=AWS&logo=amazonwebservices&label=&color=232F3E&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=Prometheus&logo=prometheus&label=&color=E6522C&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?message=Grafana&logo=grafana&label=&color=F46800&logoColor=white&style=for-the-badge" />
