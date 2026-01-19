@@ -94,8 +94,8 @@
   <img src="https://img.shields.io/static/v1?message=Entity%20Framework%20Core&logo=dotnet&label=&color=5C2D91&logoColor=white&style=for-the-badge" />
 </div>
 
-## 💼 Em busca de oportunidades
-Estou à procura de uma vaga na área de desenvolvimento para aplicar todos meus conhecimentos e contribuir no sucesso de projetos!
+## 💼 Atualmente estou atuando como desenvolvedor!
+Faço parte da EloGroup, ocupando a posição de Desenvolvedor I, iniciei em Janeiro de 2026.
 
 <div align="center">
   <p>📬 Conecte-se comigo no LinkedIn!</p>
